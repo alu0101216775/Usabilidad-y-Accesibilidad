@@ -20,7 +20,7 @@ En este artículo presentaremos un modelo de gestión óptima del tiempo, con el
 
 El presente proyecto ha sido desarrollado por 4 alumnos de Ingeniería Informática en la Universidad de La Laguna, para la asignatura Usabilidad y Accesibilidad. Se ha hecho uso de diferentes técnicas de DCU para la aplicación, entre las que encontramos: una entrevista (aplicada a alumnos de la universidad) y tormenta de ideas (llevada a cabo por el equipo de desarrollo).
 
-#### Entrevistas
+### Entrevistas
 
 La primera etapa realizada para el desarrollo del proyecto fue la entrevista. Mediante esta metodología, se llevó a cabo una consulta entre un grupo previamente seleccionado de alumnos de la universidad. Las preguntas estaban relacionadas con su forma de gestionar el tiempo, las dificultades que se les presentan, y las posibles herramientas que crean que pueden ayudarles. La información obtenida se puede clasificar de la siguiente manera:
 
@@ -35,23 +35,43 @@ La siguiente pregunta va relacionada con conocer el mayor impedimento o problema
 Para realizar la última pregunta nos hemos fijado en que varias webs y aplicaciones han ido integrando un sistema de logros para que el usuario se sienta más satisfecho cuando consigue dichos objetivos. La gran mayoría de los entrevistados nos han respondido afirmativamente a que les gustaría que contara con ello.
 
 
-#### Tormenta de ideas
+### Tormenta de ideas
 
 Se realizó una tormenta de ideas entre todos los miembros del equipo de desarrollo para analizar todas las necesidades a abordar sobre el proyecto. El equipo está formado por alumnos de la Universidad de La Laguna, en el grado de ingeniería informática con conocimientos y criterio sobre el tema principal del proyecto.
+* Logros de estudio
+* Alarma
+* Cronómetro de tiempo estudiado
+* Tiempos de descanso
+* Música relajante o de estudio
+* Apartado con métodos de estudios 
+* Apartado informativo sobre el uso de la página web
+* Calendario
+* Horario
+* Blog de notas
+* Organizador de volumen de trabajo
+* Seguimiento por cámara
+* Tutores virtuales
+* Planes de estudio
+* Formulario de sugerencias
 
--. Logros de estudio
--. Alarma
--. Cronómetro de tiempo estudiado
--. Tiempos de descanso
--. Música relajante o de estudio
--. Apartado con métodos de estudios 
--. Apartado informativo sobre el uso de la página web
--. Calendario
--. Horario
--. Blog de notas
--. Organizador de volumen de trabajo
--. Seguimiento por cámara
--. Tutores virtuales
--. Planes de estudio
--. Formulario de sugerencias
+### Ideas finales del proyecto
+
+Teniendo en cuenta toda la información recopilada, hemos seleccionado y marcado como objetivos del proyecto algunas de las ideas y propuestas más útiles y necesarias para el desarrollo de la página web. 
+
+Una de las ideas principales del proyecto, y de las más deseadas por los usuarios encuestados, es el sistema de logros y objetivos. Para desarrollarlo, se realizarán una serie de incentivos que faciliten cumplir con esos objetivos. Además de recibir un logro, se obtendrán puntos que se pueden canjear por nuevos recursos o pequeños cambios en el diseño.
+
+Otra de las ideas sería proporcionar música al usuario que mejore su rendimiento de estudio, ya que está demostrado que se retiene mejor la información escuchando música. Esta se le otorgará ya sea como una lista de youtube a la que el usuario pueda acceder desde la propia web, o en su defecto una lista de spotify accesible de la misma manera.
+
+Incluiremos un apartado donde daremos toda la información sobre el buen uso de nuestra página web, en el cual se visualizará toda la información detallada para que el usuario logre sus objetivos y se explicará cada apartado de la página web con información detallada.
+
+También añadimos un apartado con métodos de estudio en los que podremos encontrar ejemplos como: El método Eisenhower, POSEC y Pomodoro, entre otros.
+Con el fin de que los usuarios puedan informarse sobre ellos y poder elegir el que más les guste y/o convenga o desarrollar uno propio.
+
+La aplicación dispondrá de un calendario configurable para el usuario, de manera que pueda organizar y gestionar su tiempo de la forma más óptima posible. El usuario tendrá la opción de realizar un horario, así como realizar anotaciones que él considere oportuno con el fin de mejorar el tiempo de estudio, utilizando esta utilidad como agenda virtual.
+
+Una herramienta muy importante con la que contará la página web es un cronómetro de estudios personalizable, en el cual podrás ajustar tanto tu tiempo de estudios como el número de pausas a realizar o elegir modelos establecidos por la propia página.
+
+Para finalizar, se implementará un formulario de sugerencias. Con este formulario, los usuarios podrán aportar ideas para mejorar el desarrollo de la web, así como reportar posibles errores que se hayan encontrado, o algunas funcionalidades que necesiten para poder organizarse mejor.
+
+Como con cualquier proyecto que siga las metodologías ágiles, estas ideas son solo la base del proyecto. Teniendo en cuenta las opiniones de los usuarios y el rendimiento de la web, se irán añadiendo, modificando o retirando opciones, tratando de hacer la aplicación lo más cómoda y útil para sus usuarios. Esta es la principal ventaja de usar este tipo de metodologías, ya que la web está en constante crecimiento, y se convierte en un entorno dinámico; capaz de adaptarse a las necesidades de los usuarios a lo largo del tiempo.
 
