@@ -37,3 +37,21 @@ Para realizar la última pregunta nos hemos fijado en que varias webs y aplicaci
 
 #### Tormenta de ideas
 
+Se realizó una tormenta de ideas entre todos los miembros del equipo de desarrollo para analizar todas las necesidades a abordar sobre el proyecto. El equipo está formado por alumnos de la Universidad de La Laguna, en el grado de ingeniería informática con conocimientos y criterio sobre el tema principal del proyecto.
+
+-. Logros de estudio
+-. Alarma
+-. Cronómetro de tiempo estudiado
+-. Tiempos de descanso
+-. Música relajante o de estudio
+-. Apartado con métodos de estudios 
+-. Apartado informativo sobre el uso de la página web
+-. Calendario
+-. Horario
+-. Blog de notas
+-. Organizador de volumen de trabajo
+-. Seguimiento por cámara
+-. Tutores virtuales
+-. Planes de estudio
+-. Formulario de sugerencias
+
