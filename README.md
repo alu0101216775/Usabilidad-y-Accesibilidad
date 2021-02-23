@@ -18,14 +18,22 @@ En este artículo presentaremos un modelo de gestión óptima del tiempo, con el
 
 ### Metodología
 
-El presente proyecto ha sido desarrollado por 4 alumnos de Ingeniería Informática en la Universidad de La Laguna, para la asignatura Usabilidad y Accesibilidad. Se ha hecho uso de diferentes técnicas de DCU para la aplicación, entre las que encontramos: una entrevista (aplicada a alumnos de la universidad), tormenta de ideas (llevada a cabo por el equipo de desarrollo), card sorting (aplicado a los perfiles objetivos del producto) y prototipado digital.
+El presente proyecto ha sido desarrollado por 4 alumnos de Ingeniería Informática en la Universidad de La Laguna, para la asignatura Usabilidad y Accesibilidad. Se ha hecho uso de diferentes técnicas de DCU para la aplicación, entre las que encontramos: una entrevista (aplicada a alumnos de la universidad) y tormenta de ideas (llevada a cabo por el equipo de desarrollo).
 
 #### Entrevistas
 
+La primera etapa realizada para el desarrollo del proyecto fue la entrevista. Mediante esta metodología, se llevó a cabo una consulta entre un grupo previamente seleccionado de alumnos de la universidad. Las preguntas estaban relacionadas con su forma de gestionar el tiempo, las dificultades que se les presentan, y las posibles herramientas que crean que pueden ayudarles. La información obtenida se puede clasificar de la siguiente manera:
+
+La primera pregunta iba referida a la forma de gestión del tiempo de estudio. Hemos podido comprobar que la mayoría de la gente tiene grandes dificultades a la hora de organizarse, aunque en mayor o menor medida en función de las circunstancias. Además, también hemos consultado si estarían dispuestos a probar una herramienta que les facilitara esa gestión del tiempo, a lo que la mayoría han respondido positivamente. Por eso, hemos determinado que la realización de esta herramienta sí podría tener una base de usuarios interesados en su desarrollo.
+
+Otra de las cuestiones realizadas fue utilizada para tomar posibles ideas para el proyecto. En ellas, tomamos datos sobre aquellas herramientas que los entrevistados podían considerar útiles, y que podrían ayudar a mejorar su rendimiento y productividad. Muchas de estas propuestas han resultado ser bastante buenas, y hemos decidido implementarlas en el proyecto. Entre ellas destacan dividir los tiempos, un sistema de recompensas y penalizaciones, un calendario integrado, blocs de notas y listas de objetivos.
+
+Otra de ellas se centra en saber cuál podría ser la mayor o más frecuente distracción que surgía a la hora de gestionar el tiempo de estudio, a lo que la mayor parte de las personas entrevistadas respondieron: Youtube y Twitch, entre otras plataformas de entretenimiento y alguna red social.
+
+La siguiente pregunta va relacionada con conocer el mayor impedimento o problema que se puede hallar a la hora de organizar el tiempo en la universidad, a lo que contestaron que la mayor dificultad que se encontraban era la de compaginar el tiempo de la universidad con la del horario del trabajo.
+
+Para realizar la última pregunta nos hemos fijado en que varias webs y aplicaciones han ido integrando un sistema de logros para que el usuario se sienta más satisfecho cuando consigue dichos objetivos. La gran mayoría de los entrevistados nos han respondido afirmativamente a que les gustaría que contara con ello.
+
+
 #### Tormenta de ideas
 
-#### Card Sorting
-
-#### Prototipado digital
-
-### Conclusiones
