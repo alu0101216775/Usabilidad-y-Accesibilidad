@@ -3,7 +3,7 @@
 ### Objetivos
 <p>Para la realización de la práctica deberemos acceder la siguiente página web:</p>
 <p>https://www3.gobiernodecanarias.org/citasalud/</p>
-<p>Hay que usar navegadores como Chrome y Firefox para resolver una serie de cuestiones mostradas a continuación, realizando un informe que contenga las respuestas de las mismas</p>
+Hay que usar navegadores como Chrome y Firefox para resolver una serie de cuestiones mostradas a continuación, realizando un informe que contenga las respuestas de las mismas
 ### Desarrollo de la práctica
 1. ¿Qué peticiones desencadena la consulta?
 * Desencadena peticiones GET para el contenido HTML de la página web, las hojas de estilo CSS, los scripts de jquery, las fuentes de google font y las imágenes.
