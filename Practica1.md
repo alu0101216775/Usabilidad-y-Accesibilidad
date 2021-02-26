@@ -20,18 +20,22 @@ Desencadena peticiones GET para el contenido HTML de la página web, las hojas d
 7. ¿Qué idioma acepta?
    Español, Inglés y alemán
 8. Alguna línea de código JavaScript
+```js
 function ui(n, t, r) {
    if (i.isFunction(t))
       return i.grep(n, function(n, i) {
         return !!t.call(n, i, n) !== r
 });
+```
 9. Alguna línea de código CSS que se aplique
+```css
 body {
     padding-top: 20px;
     padding-bottom: 20px;
     background: #eee;
     font-family: Segoe UI;
 }
+```
 10. Alguna línea de código HTML que se aplique
 ```html
 <body>
