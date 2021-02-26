@@ -6,19 +6,19 @@ https://www3.gobiernodecanarias.org/citasalud/
 Hay que usar navegadores como Chrome y Firefox para resolver una serie de cuestiones mostradas a continuación, realizando un informe que contenga las respuestas de las mismas
 ### Desarrollo de la práctica
 1. ¿Qué peticiones desencadena la consulta?
-Desencadena peticiones GET para el contenido HTML de la página web, las hojas de estilo CSS, los scripts de jquery, las fuentes de google font y las imágenes.
+* Desencadena peticiones GET para el contenido HTML de la página web, las hojas de estilo CSS, los scripts de jquery, las fuentes de google font y las imágenes.
 2. ¿Qué tipo de petición estás realizando?
-   HTTP GET
+* HTTP GET
 3. Qué código de estatus devuelve
-   200 OK
+* 200 OK
 4. Qué DNS tiene el servidor
-   https://www3.gobiernodecanarias.org/citasalud/
+* https://www3.gobiernodecanarias.org/citasalud/
 5. Qué IP tiene tiene el servidor
-   93.188.137.126:443
+* 93.188.137.126:443
 6. ¿La página tiene alguna cookie?, ¿Cuáles?.
-   Sí, ASP.NET_Sessionld
+* Sí, ASP.NET_Sessionld
 7. ¿Qué idioma acepta?
-   Español, Inglés y alemán
+* Español, Inglés y alemán
 8. Alguna línea de código JavaScript
 ```js
 function ui(n, t, r) {
