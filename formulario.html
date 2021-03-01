@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <center>
+    <div class="container bg-light">
+      <div class="row">
+        <div class="col-sm-6">
+      <br>
+      <form method="POST" enctype="text/plain">
+      <div class="form-group">
+        <h5>Nombre y Apellidos <b>*</b></h5>
+        <input type="text" name="nombre" class="form-control name-field" required="required" placeholder="Nombre y Apellidos">
+      </div>
+      <div class="form-group">
+        <h5>Email <b>*</b></h5>
+        <input type="email" name="email" class="form-control mail-field" required="required" placeholder="Email">  
+      </div>
+
+      <div class="form-group">
+        <h5>Teléfono de contacto <b>*</b></h5>
+        <input type="text" name="telefono" class="form-control tel-field" required="required" placeholder="Teléfono">
+      </div>
+
+      <div class="form-group">
+        <h5>Dirección<b>*</b></h5>
+        <input type="text" name="envio" class="form-control dir-field" required="required" placeholder="Dirección">
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="form-group">
+        <br>
+        <h5>Mensaje</h5>
+        <textarea name="mensaje" id="message" class="form-control" cols="50" rows="10" placeholder="Escribe un comentario"></textarea>  
+      </div>      
+    </div>
+    </div>
+      <h3>¡IMPORTANTE!</h3>
+      <p>
+        <h4>Rellenar los campos obligatorios</h4>
+        Confirmar envío y comprobar datos
+      </p>      
+      <div class="form-group">
+        <button type="submit" class="btn btn-primary">Enviar</button>
+        <button type="reset" class="btn btn-secondary">Cancelar</button>
+      </div>   
+    </center>
+    <br>
+    </form>
+    </div>
+  </body>
+</html>
