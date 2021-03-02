@@ -1,5 +1,5 @@
 # Usabilidad-y-Accesibilidad
-## Prácticas de la Asignatura Usabilidad y Accesibilidad
+## Prácticas y Seminarios de la Asignatura Usabilidad y Accesibilidad
 
 * * *
 
