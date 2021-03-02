@@ -13,6 +13,7 @@
 ### Seminarios realizados:
 
 * Seminario 1: [DCU](https://github.com/alu0101216775/Usabilidad-y-Accesibilidad/tree/main/Seminario-1)
+* Seminario 2: [ChromeVox](https://github.com/alu0101216775/Usabilidad-y-Accesibilidad/blob/main/Seminario-2/Informe.md)
 
 ### Prácticas realizadas:
 
