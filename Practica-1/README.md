@@ -9,11 +9,11 @@ Hay que usar navegadores como Chrome y Firefox para resolver una serie de cuesti
 * Desencadena peticiones GET para el contenido HTML de la página web, las hojas de estilo CSS, los scripts de jquery, las fuentes de google font y las imágenes.
 2. ¿Qué tipo de petición estás realizando?
 * HTTP GET
-3. Qué código de estatus devuelve
+3. ¿Qué código de estatus devuelve?
 * 200 OK
-4. Qué DNS tiene el servidor
+4. ¿Qué DNS tiene el servidor?
 * https://www3.gobiernodecanarias.org/citasalud/
-5. Qué IP tiene tiene el servidor
+5. ¿Qué IP tiene tiene el servidor?
 * 93.188.137.126:443
 6. ¿La página tiene alguna cookie?, ¿Cuáles?.
 * Sí, ASP.NET_Sessionld
