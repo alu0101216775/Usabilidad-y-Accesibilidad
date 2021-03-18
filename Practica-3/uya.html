@@ -40,7 +40,10 @@
             }
             .main-menu{
                 display: block;
-                margin-left: 300px;
+                margin: auto;
+            }
+            .navbar{
+                margin-left: 200px;
             }
             .nav-elements{
                 display: flex;
@@ -48,12 +51,13 @@
                 padding: 0.3em;
             }
             .nav-item{
+                color: black;
                 margin: 20px;
             }
             footer{
                 position: relative;
                 background-color: mediumpurple;
-                height: 300px;
+                height: 100px;
                 width: 770px;
             }
             .coltext{
@@ -61,14 +65,23 @@
                 margin: 10px;
                 justify-content: inter-word;
             }
+            p{
+                margin-top: 0.5em;
+            }
             a{
                 color: cyan;
             }
             a:hover{
-                color:red;
+                color: red;
             }
             a:visited{
                 color: royalblue;
+            }
+            table, th, td{
+                border: 1px solid black;
+            }
+            table{
+                width: 100%;
             }
             table a{
                 color: green;
@@ -76,23 +89,31 @@
             nav .nav-item:hover{
                 background-color: indianred;
             }
+            #logo{
+                float: unset;
+                height: 50px;
+                width: 50px;
+            }
+            #up{
+                color: violet;
+                margin-left: 125px;
+            }
         </style>
     </head>
     <body>
         <div class="main-contanier">
             <header>
                 <div class="main-menu">
-                    <div class="logo">
-                        
-                    </div>
-                    <div class="nav-list">
-                        <nav>
-                            <ul class = "nav-elements">
-                                <li class="nav-item"><a href="#">El proyecto</a></li>
-                                <li class="nav-item"><a href="#">Sobre nosotros</a></li>
-                                <li class="nav-item"><a href="#">Contacto</a></li>
-                            </ul>
-                        </nav>
+                        <div class="navbar">
+                            <div class="nav-list">
+                            <nav>
+                                <ul class = "nav-elements">
+                                    <li class="nav-item"><a href="#">El proyecto</a></li>
+                                    <li class="nav-item"><a href="#">Sobre nosotros</a></li>
+                                    <li class="nav-item"><a href="#">Contacto</a></li>
+                                </ul>
+                            </nav>
+                        </div>
                     </div>
                 </div>
             </header>
@@ -101,19 +122,74 @@
                     <div class="columns">
                         <div class="col1">
                             <div class = "coltext">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fringilla metus leo, eu fringilla massa lacinia vitae. Curabitur sed sodales odio, in consectetur odio. Suspendisse fermentum, odio vel aliquet finibus, ipsum tortor tempor justo, nec malesuada lacus ante sed erat. Sed augue augue, dapibus in sollicitudin ut, porttitor hendrerit eros. Donec nibh nisl, tincidunt et purus nec, viverra cursus eros. Suspendisse accumsan velit nisi, nec volutpat justo sagittis vel. Nunc at nunc eu elit accumsan vestibulum. Nunc lacinia blandit consectetur. Maecenas ac faucibus dui. Nunc eleifend, erat venenatis vestibulum accumsan, quam nulla varius risus, ac pretium nibh purus a lorem. Sed quis tempor sapien. Ut sed ornare magna.</p>
-                                <p>Proin non justo in est pretium vehicula auctor a dolor. Donec pharetra lectus quis diam congue congue. Suspendisse convallis quam ut interdum posuere. Donec congue dolor in justo volutpat sollicitudin at vel elit. Suspendisse finibus nunc non fermentum scelerisque. Duis fermentum massa ut nunc tempus, eget elementum nulla eleifend. Phasellus vitae nibh at libero eleifend consequat non nec tellus. Mauris quis ullamcorper augue. Phasellus ornare nunc dui, eu aliquam odio gravida lobortis. Pellentesque scelerisque dictum purus ut ornare. Aliquam libero sapien, congue quis tellus sed, ornare condimentum augue. Etiam ultricies sagittis leo at auctor. Vestibulum malesuada est magna, in maximus metus malesuada id. Donec sem dui, consequat a convallis in, pharetra vitae enim.</p>
-                                <p>Maecenas quis tempus lectus, non consequat erat. Integer ac pulvinar ex. Etiam in libero metus. Ut vitae pretium nulla, at ultricies leo. Nulla sem erat, tristique eu dignissim id, ornare sit amet risus. Mauris in erat in nisi aliquet consectetur ut non urna. Suspendisse pellentesque posuere ex a suscipit. Donec ut urna at ipsum rhoncus semper sed id enim. Nulla facilisi. Maecenas convallis est at mauris tincidunt iaculis. Sed mollis, neque id condimentum pellentesque, tortor justo lobortis leo, ac consequat erat dolor ac diam. </p>
+                                <p><h1>Título 1</h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fringilla metus leo, eu fringilla massa lacinia vitae. Curabitur sed sodales odio, in consectetur odio. Suspendisse fermentum, odio vel aliquet finibus, ipsum tortor tempor justo, nec malesuada lacus ante sed erat. Sed augue augue, dapibus in sollicitudin ut, porttitor hendrerit eros. Donec nibh nisl, tincidunt et purus nec, viverra cursus eros. Suspendisse accumsan velit nisi, nec volutpat justo sagittis vel. Nunc at nunc eu elit accumsan vestibulum. Nunc lacinia blandit consectetur. Maecenas ac faucibus dui. Nunc eleifend, erat venenatis vestibulum accumsan, quam nulla varius risus, ac pretium nibh purus a lorem. Sed quis tempor sapien. Ut sed ornare magna.</p>
+                                <p><h2>Título 2</h2>Proin non justo in est pretium vehicula auctor a dolor. Donec pharetra lectus quis diam congue congue. Suspendisse convallis quam ut interdum posuere. Donec congue dolor in justo volutpat sollicitudin at vel elit. Suspendisse finibus nunc non fermentum scelerisque. Duis fermentum massa ut nunc tempus, eget elementum nulla eleifend. Phasellus vitae nibh at libero eleifend consequat non nec tellus. Mauris quis ullamcorper augue. Phasellus ornare nunc dui, eu aliquam odio gravida lobortis. Pellentesque scelerisque dictum purus ut ornare. Aliquam libero sapien.</p>
+                                <p><h3>Título 3</h3><img src="./logo.png" alt="logo" id="logo"><strong>Nombres de los integrantes del grupo 4:</strong><img src="./logo.png" alt="logo" id="logo"></p>
+                                <table>
+                                    <tr>
+                                        <th>Nombre</th>
+                                        <th>Apellido1</th>
+                                        <th>Apellido2</th>
+                                        <th>Enlace Github</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Héctor</td>
+                                        <td>Abreu</td>
+                                        <td>Acosta</td>
+                                        <td><a href="https://github.com/alu0101216775/Usabilidad-y-Accesibilidad" target="#blank">Github UyA</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Marcos Jesús</td>
+                                        <td>Santana</td>
+                                        <td>Ramos</td>
+                                        <td><a href="https://github.com/alu0101216775/Usabilidad-y-Accesibilidad" target="#blank">Github UyA</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Adrián</td>
+                                        <td>González</td>
+                                        <td>Hernández</td>
+                                        <td><a href="https://github.com/alu0101216775/Usabilidad-y-Accesibilidad" target="#blank">Github UyA</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Alejandro</td>
+                                        <td>Pérez</td>
+                                        <td>Álvarez</td>
+                                        <td><a href="https://github.com/alu0101216775/Usabilidad-y-Accesibilidad" target="#blank">Github UyA</a></td>
+                                    </tr>
+                                </table>
                             </div>
                         </div>
                         <div class="col2">
                             <div class="coltext">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fringilla metus leo, eu fringilla massa lacinia vitae. Curabitur sed sodales odio, in consectetur odio. Suspendisse fermentum, odio vel aliquet finibus, ipsum tortor tempor justo, nec malesuada lacus ante sed erat. Sed augue augue, dapibus in sollicitudin ut, porttitor hendrerit eros. Donec nibh nisl, tincidunt et purus nec, viverra cursus eros. Suspendisse accumsan velit nisi, nec volutpat justo sagittis vel. Nunc at nunc eu elit accumsan vestibulum. Nunc lacinia blandit consectetur. Maecenas ac faucibus dui. Nunc eleifend, erat venenatis vestibulum accumsan, quam nulla varius risus, ac pretium nibh purus a lorem. Sed quis tempor sapien. Ut sed ornare magna.</p>
+                                <p>
+                                    <strong>Lista de la compra:</strong>
+                                    <ol>
+                                        <li>Pan</li>
+                                        <li>Agua</li>
+                                        <li>Cereales</li>
+                                        <li>Refresco</li>
+                                    </ol>
+                                </p>
+                                <p>
+                                    <strong>Menú</strong>
+                                    <ul>
+                                        <li><a href="https://www.mercadona.es" target="#blank">Mercadona</a></li>
+                                        <li><a href="https://www.carrefour.es" target="#blank">Carrefour</a></li>
+                                        <li><a href="https://www.alcampo.es" target="#blank">Alcampo</a></li>
+                                    </ul>   
+                                    <a href="#" id="up">Volver arriba</a>  
+                                </p>
                             </div>
                         </div>
                         <div class="col3">
                             <div class="coltext">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fringilla metus leo, eu fringilla massa lacinia vitae. Curabitur sed sodales odio, in consectetur odio. Suspendisse fermentum, odio vel aliquet finibus, ipsum tortor tempor justo, nec malesuada lacus ante sed erat. Sed augue augue, dapibus in sollicitudin ut, porttitor hendrerit eros. Donec nibh nisl, tincidunt et purus nec, viverra cursus eros. Suspendisse accumsan velit nisi, nec volutpat justo sagittis vel. Nunc at nunc eu elit accumsan vestibulum. Nunc lacinia blandit consectetur. Maecenas ac faucibus dui. Nunc eleifend, erat venenatis vestibulum accumsan, quam nulla varius risus, ac pretium nibh purus a lorem. Sed quis tempor sapien. Ut sed ornare magna.</p>
+                                <p><strong>Enlaces</strong></p>
+                                <a href="https://www.wikipedia.es" target="#blank">Wikipedia</a><br>
+                                <a href="https://www.google.es" target="#blank">Google</a><br>
+                                <a href="https://www.ull.es" target="#blank">ULL</a><br>
+                                <a href="https://www.youtube.es" target="#blank">Youtube</a><br>
+                                <a href="https://www.github.com" target="#blank">Github</a>
                             </div>
                         </div>
                     </div>                 
@@ -131,3 +207,4 @@
         </div>
     </body>
 </html>
+<!-- -->
