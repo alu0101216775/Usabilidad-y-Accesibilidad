@@ -16,6 +16,7 @@
 * Seminario 2: [ChromeVox](https://github.com/alu0101216775/Usabilidad-y-Accesibilidad/blob/main/Seminario-2/Informe.md)
 * Seminario 3: [Infografía](https://github.com/alu0101216775/Usabilidad-y-Accesibilidad/tree/main/Seminario-3)
 * Seminario 4: [Perceptible](https://github.com/alu0101216775/Usabilidad-y-Accesibilidad/tree/main/Seminario-4)
+* Seminario 5: [Operable](https://github.com/alu0101216775/Usabilidad-y-Accesibilidad/tree/main/Seminario-5)
 
 ### Prácticas realizadas:
 
