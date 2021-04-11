@@ -26,4 +26,4 @@
 * Práctica 3: [Introducción a CSS](https://github.com/alu0101216775/Usabilidad-y-Accesibilidad/tree/main/Practica-3)
 * Práctica 4: [Materialize](https://github.com/alu0101216775/Usabilidad-y-Accesibilidad/tree/main/Practica-4)
 * Práctica 5: [Introducción a CSS](https://github.com/alu0101216775/Usabilidad-y-Accesibilidad/tree/main/Practica-5)
-* Práctica 6: [Java Script: Ajax; FirebaseTarea](https://github.com/alu0101216775/Usabilidad-y-Accesibilidad/tree/main/Practica-6)
+* Práctica 6: [JavaScript: Ajax; Firebase](https://github.com/alu0101216775/Usabilidad-y-Accesibilidad/tree/main/Practica-6)
